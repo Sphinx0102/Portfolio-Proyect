@@ -4,7 +4,7 @@
 
 ___
 
-##### Programming languages
+##### Technologies Implemented
 
-- ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png)
+- ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
