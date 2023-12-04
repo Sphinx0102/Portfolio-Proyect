@@ -1,7 +1,6 @@
 # Portfoli-Proyect
 
-##### Proyecto de prototipo de Portfolio
-
+Prototype Portfolio Project
 ___
 
 ##### Technologies Implemented
